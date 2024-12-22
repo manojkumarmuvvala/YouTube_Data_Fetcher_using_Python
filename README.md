@@ -41,7 +41,7 @@ Run the script:
 - The script will prompt you to enter a genre (e.g., "technology", "music", etc.). It will then fetch the top 500 videos for that genre based on view count.
 - The script will collect various details for each video and save them in a CSV file. The file will be saved with the format genre_videos.csv in the same directory.
 
-# Example Output: 
+## Example Output: 
 - After the script completes, you will have a CSV file containing the following columns:
   - Video URL: Direct URL to the video.
   - Title: Title of the video.
