@@ -43,20 +43,20 @@ Run the script:
 
 # Example Output: 
 - After the script completes, you will have a CSV file containing the following columns:
-- Video URL: Direct URL to the video.
-- Title: Title of the video.
-- Description: Description of the video.
-- Channel Title: Name of the channel.
-- Keyword Tags: Tags associated with the video.
-- YouTube Video Category: Category ID of the video.
-- Topic Details: Relevant topics/categories for the video.
-- Video Published At: Date and time the video was published.
-- Video Duration: Duration of the video.
-- View Count: Number of views.
-- Comment Count: Number of comments.
-- Captions Available: Whether captions are available for the video.
-- Location of Recording: Location where the video was recorded.
-- Caption Text: Transcript text, if captions are available.
+  - Video URL: Direct URL to the video.
+  - Title: Title of the video.
+  - Description: Description of the video.
+  - Channel Title: Name of the channel.
+  - Keyword Tags: Tags associated with the video.
+  - YouTube Video Category: Category ID of the video.
+  - Topic Details: Relevant topics/categories for the video.
+  - Video Published At: Date and time the video was published.
+  - Video Duration: Duration of the video.
+  - View Count: Number of views.
+  - Comment Count: Number of comments.
+  - Captions Available: Whether captions are available for the video.
+  - Location of Recording: Location where the video was recorded.
+  - Caption Text: Transcript text, if captions are available.
 ## Future Work
 - **Expand Data Fields**: Currently, the script fetches basic video details. Future work can include fetching additional information such as the video's likes/dislikes, playlist information, and related videos.
 
